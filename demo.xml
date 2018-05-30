@@ -1,0 +1,12 @@
+<Suite name="annotations">
+
+<Test name="T1">	
+														
+		<classes>
+
+			<class name="com.test.OHRM_Login_Testng"/>							
+	</classes>
+
+</Test>
+
+</Suite>
