@@ -9,7 +9,7 @@ System.out.println("HIiiiiii222");
 		
 System.out.println("hiiii333");
 System.out.println("hello");
-		System.out.println("from remote");
+		System.out.println("from rem");
 		
 	}
 
